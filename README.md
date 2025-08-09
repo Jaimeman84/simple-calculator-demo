@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A clean and simple calculator built with Python and Streamlit, following SOLID principles.
+A clean and simple calculator demo built with Python and Streamlit, following SOLID principles.
 
 ## Features
 
